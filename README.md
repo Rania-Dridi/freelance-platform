@@ -60,3 +60,11 @@ Open http://127.0.0.1:8000. Demo accounts created by the seeder (password `passw
 Screens captured from the running application are in `docs/screenshots/`:
 home, missions list, proposal form, freelancer dashboard, proposals review, mission creation,
 client dashboard and administration.
+
+## Live demo (no PHP needed)
+
+https://rania-dridi.github.io/demo/freelancepro/
+
+`demo/` is a browser version of the application: the same business rules ported to JavaScript
+(`demo/rules.js`, checked by `node --test demo/rules.test.js`), the same pages and CSS, state in `localStorage`.
+Build it with `node scripts/build-demo.mjs` (output in `dist-demo/`).
