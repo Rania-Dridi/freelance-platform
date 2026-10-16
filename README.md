@@ -1,7 +1,7 @@
 # FreelancePro
 
 Web platform that connects clients and freelancers, built with Laravel 12 and PHP 8.3 as an academic
-project at Esprit School of Business.
+project.
 
 Clients publish missions, freelancers send proposals, the client accepts one, and an administrator
 supervises accounts and missions.
