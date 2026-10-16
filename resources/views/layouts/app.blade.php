@@ -32,6 +32,6 @@
   @yield('content')
 </main>
 
-<footer><div class="container">FreelancePro, plateforme de mise en relation entre freelances et clients. Projet académique, Esprit School of Business.</div></footer>
+<footer><div class="container">FreelancePro, plateforme de mise en relation entre freelances et clients. Projet académique.</div></footer>
 </body>
 </html>

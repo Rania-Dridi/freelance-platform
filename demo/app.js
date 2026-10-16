@@ -44,7 +44,7 @@ function layout(inner) {
   <header class="nav"><div class="container"><a class="brand" href="#/">Freelance<span>Pro</span></a>
     <nav class="nav-links"><a class="opt" href="#/missions">Missions</a>${links}</nav></div></header>
   <main class="container">${msg}${inner}</main>
-  <footer><div class="container">FreelancePro, plateforme de mise en relation entre freelances et clients. Projet académique, Esprit School of Business.</div></footer>`;
+  <footer><div class="container">FreelancePro, plateforme de mise en relation entre freelances et clients. Projet académique.</div></footer>`;
 }
 
 const pages = {
